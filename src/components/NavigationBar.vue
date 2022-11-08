@@ -39,8 +39,5 @@ export default {
 </script>
 
 <style scoped>
-.user-info {
-  margin-right: 5rem;
-}
 
 </style>
